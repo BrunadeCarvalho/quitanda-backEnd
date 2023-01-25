@@ -13,3 +13,7 @@
 
 <h2> Criar um produto </h2>
 <p> Todos os pedidos que forem finalizados ficaram armazenados no banco de dados. </p>
+
+## Tecnologias utilizadas:
+
+Node.Js e MySQL
